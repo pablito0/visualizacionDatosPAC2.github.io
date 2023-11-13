@@ -1,2 +1,2 @@
-# visualizacionDatosPAC2.github.io
-PEC 2 - Visualización de datos
+# Circular packing
+Esto es un ejemplo interactivo de un circular packing
